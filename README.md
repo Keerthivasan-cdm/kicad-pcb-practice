@@ -51,4 +51,4 @@ esp32c3-compact-v2/       Board 2: open esp32c3.kicad_pro
 KiCad 9.0 (Eeschema, Pcbnew, 3D viewer), custom symbols and footprints for ICM-20948, BQ25185, TLV70018 and MAX16054.
 
 ## Author
-**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j))
+**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j-))
